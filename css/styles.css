@@ -5,3 +5,11 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
+#header-nav {
+  background-color: #4d7553;
+  border-radius: 0;
+  border: 0;
+  font-size: 30px;
+  text-align: center;
+}
+
